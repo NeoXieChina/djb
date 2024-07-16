@@ -6,11 +6,11 @@
 
 #### 希沃----------
 
-[希沃白板说明书](https://help.seewo.com/easinote/ZSCpIoCGY7 " :include :type=iframe width=100% height=600px")
+[希沃白板官方说明书](https://help.seewo.com/easinote/ZSCpIoCGY7 " :include :type=iframe width=100% height=600px")
 
 #### 鸿合----------
 
-[鸿合教程](https://www.hitecloud.cn/learning " :include :type=iframe width=100% height=700px")
+[鸿合官方教程](https://www.hitecloud.cn/learning " :include :type=iframe width=100% height=700px")
 
 #### 常见大屏显示器（如电视等……）切换信号源方法
 
@@ -41,6 +41,8 @@
         定期检查桌面及磁盘内的文件，不建议将保存课件的文件夹直接放到桌面，可以转储至D盘，E盘等其他位置，为方便点取，可将此文件夹的快捷方式发送至桌面。为保证电脑的运行流畅，装有SSD的机器不建议将磁盘填充至超过总容量的60%，超过此阈值可能会导致SSD运行速度下降，进而影响系统流畅度。如有必要，可以安装还原软件。
 
 ### 3.及时关闭后台软件
+
+!> 请在中午和晚自习后关闭系统，在周末等假期中关闭电闸!!!
 
         一体机的散热系统完全可以用闷罐来形容，夏天即使CPU功耗只有1W温度也逼近60°C。所以在课间要及时关闭不必要的软件，避免风扇声音影响同学们上课
 
