@@ -1,4 +1,5 @@
 <img title="" src="https://pic.imgdb.cn/item/667f9e57d9c307b7e90f5f1b.png" alt="七中万达" width="122" data-align="center">
+
 # 成都七中万达学校电子化教育部
 
         成都七中万达学校电子化教育部（以下简称"**电教部**")是一个历史悠久的部门，主要负责校园内的各类电子化智能多媒体设备的研究、使用、培训与维护。
