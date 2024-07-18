@@ -13,5 +13,5 @@
 * 相关
   * [软件推荐](/softs.md)
   * [常见问题](/faqs.md)
-* [下载](/downs.md)
+* [系统](/downs.md)
 * [写在最后](/last.md)
