@@ -2,7 +2,7 @@
 
 ## 系统介绍
 
-辅助安装工具：  [HEU KMS Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)     [LDTools](https://ldtstore.com.cn/ldtools/)
+辅助安装工具：  [HEU KMS Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)—— [LDTools](https://ldtstore.com.cn/ldtools/)
         一体机的PC模块与普通PC 别无二致，普通PC能安装的系统一体机都能安装。目前一体机上主要运行的是 Windows系统，其它系统由于教师接受度低故不再考虑。推荐在使用以下系统：
 
 ### 1.Windows 7
@@ -37,7 +37,7 @@
 
 ### Windows：
 
- [MSDN 我告诉你](https://msdn.itellyou.cn/)            [hellowindows](https://hellowindows.cn/)      [WinNew ](https://winnew.cn/)       [Windsys](https://windsys.win)
+ [MSDN 我告诉你](https://msdn.itellyou.cn/)  —— [hellowindows](https://hellowindows.cn/) ——[WinNew ](https://winnew.cn/) ——  [Windsys](https://windsys.win)
 
 ### Linux:
 
@@ -172,9 +172,9 @@
 
 1.中国研发
 
- [电脑店PE](https://u.diannaodian.com/)      [大白菜PE](http://www.winbaicai.com/)      [老毛桃PE](https://www.laomaotao.net/)    [ 极客狗PE](https://www.jikegou.net/)     [优启通](http://uqitong.gal91.cn/)
+ [电脑店PE](https://u.diannaodian.com/)  ——大白菜PE](http://www.winbaicai.com/) ——     [老毛桃PE](https://www.laomaotao.net/) ——   [ 极客狗PE](https://www.jikegou.net/)    —— [优启通](http://uqitong.gal91.cn/)
 
-[微PE](https://www.wepe.com.cn/)    [HotPE(来自现今高中生)](https://www.hotpe.top/)   [Edgeless](https://home.edgeless.top/)   [Edgeless-CE: 开源版本的Edgeless](https://github.com/slqwqxd/Edgeless-CE)    [FirPE](https://firpe.cn/)         [AngelPE](https://www.angel-pe.cn)   [CowPE](http://cowpe.myzwq.cn/)   [GlassPE](https://glasspe.cn/)    [DawnPE](https://dawnpe.com)    [GlowPE](https://glow.lovepc.team/)    [ComPE](https://www.win-compe.top/)    
+[微PE](https://www.wepe.com.cn/) ——   [HotPE(来自现今高中生)](https://www.hotpe.top/) ——   [Edgeless](https://home.edgeless.top/) ——  [Edgeless-CE: 开源版本的Edgeless](https://github.com/slqwqxd/Edgeless-CE)  ——  [FirPE](https://firpe.cn/)    ——     [AngelPE](https://www.angel-pe.cn) ——  [CowPE](http://cowpe.myzwq.cn/)  —— [GlassPE](https://glasspe.cn/) ——   [DawnPE](https://dawnpe.com) ——   [GlowPE](https://glow.lovepc.team/)    ——[ComPE](https://www.win-compe.top/)    
 
 2.国外知名
 
