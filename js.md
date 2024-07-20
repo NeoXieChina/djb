@@ -8,6 +8,8 @@
 
 [希沃白板官方说明书](https://help.seewo.com/easinote/ZSCpIoCGY7 " :include :type=iframe width=100% height=600px")
 
+[希沃设备介绍](https://www.bilibili.com/read/cv17558350/ ":include :type=iframe width=100% height=700px")
+
 #### 鸿合----------
 
 [鸿合官方教程](https://www.hitecloud.cn/learning " :include :type=iframe width=100% height=700px")
