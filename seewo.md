@@ -64,12 +64,8 @@
 #### 4、侧边栏小工具 
 位置：
 位于一体机屏幕的左右两侧的白色箭头（如左图：）
-![图片](https://pic.imgdb.cn/item/66dd0d77d9c307b7e950fa64.jpg)
-
-点击展开详情后：
-
-![图片](https://pic.imgdb.cn/item/66dd0d76d9c307b7e950f83f.jpg)
-
+<img src="https://pic.imgdb.cn/item/66dd0d77d9c307b7e950fa64.jpg" width="200"><img src="https://pic.imgdb.cn/item/66dd0d76d9c307b7e950f83f.jpg" width="200">
+点击展开详情后：（如右图：）
 三大区块
 软件区：常用软件的快捷登录窗口。
 工具区：批注、截图、倒计时、半屏等功能。
