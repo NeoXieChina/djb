@@ -56,13 +56,21 @@
 #### windows
 
 |Win + V(>windows10) |调出剪贴板|
+
 |Win + . / Win + ;(>windows10) |调出表情符号（emoji）键盘|
+
 |win+k (>win10)|无线显示器设备连接|
+
 |win+p|显示器设置[复制，扩展]|
+
 |win+d|显示桌面|
+
 |win+l|锁屏|
+
 |win+ +/-|放大缩小|
+
 |win+e|资源管理器|
+
 |ctrl+z|撤销操作|
  
 #### Mac
