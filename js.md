@@ -14,6 +14,7 @@
 
 [鸿合官方教程](https://www.hitecloud.cn/learning " :include :type=iframe width=100% height=700px")
 
+
 #### 常见大屏显示器（如电视等……）切换信号源方法
 
 `信号源`键→选择所需信号源→`信号源`键
@@ -53,6 +54,7 @@
 在闭合黑板前请留意USB接口处是否仍留有U盘或其他USB设备，不要在未检查的情况下快速推黑板，这容易造成USB设备及接口的损坏！
 ### 常见快捷键
 #### windows
+
  |Win + V(>windows10) |调出剪贴板|
  |Win + . / Win + ;(>windows10) |调出表情符号（emoji）键盘|
  |win+k (>win10)|无线显示器设备连接|
@@ -62,5 +64,7 @@
  |win+ +/-|放大缩小|
  |win+e|资源管理器|
  |ctrl+z|撤销操作|
- #### Mac
+ 
+#### Mac
+
  |command+亮度减小|扩展或复制屏幕|
