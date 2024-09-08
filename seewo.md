@@ -65,8 +65,11 @@
 位置：
 位于一体机屏幕的左右两侧的白色箭头（如左图：）
 ![图片](https://pic.imgdb.cn/item/66dd0d77d9c307b7e950fa64.jpg)
+
 点击展开详情后：
+
 ![图片](https://pic.imgdb.cn/item/66dd0d76d9c307b7e950f83f.jpg)
+
 三大区块
 软件区：常用软件的快捷登录窗口。
 工具区：批注、截图、倒计时、半屏等功能。
@@ -163,7 +166,8 @@ step5：手机靠近NFC卡片开始投屏
 
 ### 希沃品课
 希沃交互智能平板打开后，在桌面自动启动希沃品课<img src="https://pic.imgdb.cn/item/66dd0d7dd9c307b7e9510107.jpg" width="50">的程序，打开后，包括如下功能希沃交互智能平板打开后，在桌面自动启动希沃品课的程序，图标如图所示，打开后，包括如下功能
-<img src="https://pic.imgdb.cn/item/66dd101ed9c307b7e953f9f5.jpg" alt="image3 (2).jpeg"><img src="https://pic.imgdb.cn/item/66dd0d7fd9c307b7e95103cd.jpg" width="70">
+<img src="https://pic.imgdb.cn/item/66dd101ed9c307b7e953f9f5.jpg" alt="image3 (2).jpeg"><img src="https://pic.imgdb.cn/item/66dd0d7fd9c307b7e95103cd.jpg" width="100">
+
 教师可以使用 “黑板“、”传屏“、“批注“功能，如需使用交互，老师需要提前注册希沃品课的帐号。
 1、 黑板功能：可以更换笔触颜色、粗细、移动、擦除等功能
 2、 传屏功能：安卓手机或电脑，首次使用需要安装“希沃品课 “（如果安装过“传屏助手“，也可以使用”传屏助手“扫码投屏），苹果手机直接使用屏幕镜像即可。
